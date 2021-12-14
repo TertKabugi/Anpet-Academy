@@ -1,5 +1,5 @@
-<!doctype html>
-<html lang="en">
+
+<html>
   
 <head>
     <meta charset="utf-8">
@@ -20,6 +20,7 @@
       <input type="number" class="form-control" id="studentno" placeholder="name@example.com">
       <label for="studentno">Student No.</label>
     </div>
+   
     <div class="form-floating">
       <input type="password" class="form-control" id="sPassword" placeholder="Password">
       <label for="sPassword">Password</label>
@@ -30,7 +31,9 @@
         <input type="checkbox" value="remember-me"> Remember me
       </label>
     </div>
+   
     <button class="w-100 btn btn-lg btn-success" type="submit">Sign in</button>
+   
     <p class="mt-5 mb-3 ">&copy; Anpet Academy</p>
   </form>
 </main>
