@@ -8,13 +8,13 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #e4af5a;
+  background-color: #e4ad54;
 }
 
 .form-signin {
   width: 100%;
   max-width: 330px;
-  padding: 15px;
+  padding: 20px;
   margin: auto;
 }
 
