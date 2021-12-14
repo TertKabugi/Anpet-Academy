@@ -10,7 +10,7 @@
     
 <main class="form-signin">
   <form>
-    <img class="mb-4" src="logo.jpg" alt="" width="100" height="90">
+    <img class="mb-4" src="logo.jpg" alt="" width="200" height="190">
     <h1 class="h3 mb-3 fw-normal">Student Login</h1>
 
     <div class="form-floating">
